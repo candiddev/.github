@@ -1,0 +1,45 @@
+name: Integration
+
+concurrency:
+  group: integration_${{ github.ref_name }}
+  cancel-in-progress: true
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write # This is required for actions/checkout and releases
+  id-token: write # This is required for requesting the JWT
+  pages: write # This is required for pages
+  pull-requests: read # This is required for paths-filter
+
+jobs:
+  release:
+    env:
+      BUILD_SOURCE: main
+    name: Release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          submodules: true
+      - name: Setup
+        id: setup
+        uses: ./github/setup
+      - name: Build hugo
+        run: ./m build-hugo
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: 'hugo/public'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
