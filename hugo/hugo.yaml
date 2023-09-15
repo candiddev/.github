@@ -8,6 +8,11 @@ disableLanguages:
   - zh
 menu:
   main:
+    - name: Services
+      weight: 40
+      url: https://candid.sh
+      post: <sup><i class="ps-1 fa-solid fa-up-right-from-square fa-xs"
+        aria-hidden="true"></i></sup>
     - name: Source Code
       weight: 50
       url: https://github.com/candiddev
