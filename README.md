@@ -6,7 +6,7 @@
 
 ## License
 
-The code in this repository is licensed under the [Candid Public License](https://www.candid.dev/licenses).  Please [contact us](mailto:info@candid.dev) for licensing exceptions.
+The code in this repository is unlicensed.  It's our website, why would you want this?
 
 ## Development
 
