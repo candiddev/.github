@@ -21,6 +21,7 @@ menu:
 params:
   colorPrimary: blue
   colorSecondary: blue
+  description: Really neat stuff
   links:
     developer:
       - description: GitHub
