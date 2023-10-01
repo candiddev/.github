@@ -1,7 +1,7 @@
 ---
 author: Mike
 date: 2023-09-17
-summary: Choosing a licensing model for your source code can be almost as difficult as writing code.
+description: Choosing a licensing model for your source code can be almost as difficult as writing code.
 title: Navigating Software Licensing
 type: blog
 ---

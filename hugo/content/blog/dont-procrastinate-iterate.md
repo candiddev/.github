@@ -1,7 +1,7 @@
 ---
 author: Mike
 date: 2023-09-04
-summary: Getting to a definition of done is hard, especially when there's a lot of work to do.
+description: Getting to a definition of done is hard, especially when there's a lot of work to do.
 title: Don't Procrastinate, Iterate
 type: blog
 ---

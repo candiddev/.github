@@ -1,6 +1,7 @@
 ---
-linkTitle: Products
+description: Really neat stuff
 menu: {main}
+title: Products
 weight: 10
 ---
 

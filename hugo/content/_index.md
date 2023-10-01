@@ -1,5 +1,4 @@
 ---
-description: Feedback driven development
 title: Candid Development
 ---
 

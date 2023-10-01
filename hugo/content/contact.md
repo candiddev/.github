@@ -1,6 +1,7 @@
 ---
-linkTitle: Contact Us
+description: How to contact Candid Development
 menu: {main}
+title: Contact Us
 weight: 30
 ---
 

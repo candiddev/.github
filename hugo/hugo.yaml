@@ -32,4 +32,5 @@ params:
         icon: fab fa-linkedin
         name: LinkedIn
         url: https://www.linkedin.com/company/candiddev
+  logo: candiddev
 title: Candid Development

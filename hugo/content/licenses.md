@@ -1,6 +1,7 @@
 ---
-linkTitle: Licenses
+description: How Candid Development licenses software
 menu: {main}
+title: Licenses
 weight: 20
 ---
 
