@@ -8,7 +8,7 @@ weight: 10
 {{% blocks/section color="white" height=full %}}
 {{< cardpane >}}
 {{% card %}}
-## <img src="/etcha.png" style="border-radius: 4px; height: 50px; width: auto"> **Etcha**
+## <img src="https://etcha.dev/etcha.png" style="border-radius: 4px; height: 50px; width: auto"> **Etcha**
 
 Create distributed, decentralized build and run configurations for servers and applications.
 
@@ -16,7 +16,7 @@ Create distributed, decentralized build and run configurations for servers and a
 
 {{< /card >}}
 {{% card %}}
-## <img src="/homechart.png" style="border-radius: 4px; height: 50px; width: auto"> **Homechart**
+## <img src="https://homechart.app/homechart.png" style="border-radius: 4px; height: 50px; width: auto"> **Homechart**
 
 Manage your budgets, calendars, tasks, recipes and more with this all-in-one household organizer.
 
@@ -24,7 +24,7 @@ Manage your budgets, calendars, tasks, recipes and more with this all-in-one hou
 
 {{< /card >}}
 {{% card %}}
-## <img src="/yaml8n.png" style="border-radius: 4px; height: 50px; width: auto"> **YAML8n**
+## <img src="https://yaml8n.dev/yaml8n.png" style="border-radius: 4px; height: 50px; width: auto"> **YAML8n**
 
 Create type safe translations using YAML and AI.
 
