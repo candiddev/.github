@@ -24,6 +24,14 @@ Manage your budgets, calendars, tasks, recipes and more with this all-in-one hou
 
 {{< /card >}}
 {{% card %}}
+## <img src="https://rotx.dev/rot.png" style="border-radius: 4px; height: 50px; width: auto"> **Rot**
+
+Future proof secrets management.  No footguns, just good, boring cryptography.
+
+[https://rotx.dev](https://rotx.dev)
+
+{{< /card >}}
+{{% card %}}
 ## <img src="https://yaml8n.dev/yaml8n.png" style="border-radius: 4px; height: 50px; width: auto"> **YAML8n**
 
 Create type safe translations using YAML and AI.

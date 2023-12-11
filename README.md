@@ -1,4 +1,4 @@
-# Candid Development
+# <img alt=logo src=candiddev.png width=40px> Candid Development
 
 > Feedback driven development
 
